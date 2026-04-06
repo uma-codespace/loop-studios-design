@@ -68,14 +68,14 @@ A responsive landing page built using HTML and CSS, inspired by the Loopstudios 
 The UI includes subtle interactions to improve user experience:
 
 - Image hover effects → brightness increase + overlay + caption color change
-- ![Preview](./preview/img-hover-effects.png)
+  ![Preview](./preview/img-hover-effects.png)
 
 - Navbar links → animated underline on hover
-- ![Preview](./preview/navbar-underline.png)
+  ![Preview](./preview/navbar-underline.png)
   
 - Buttons → color inversion on hover
 - Social icons → underline effect on hover
-- ![Preview](./preview/social-icons-underline.png)
+  ![Preview](./preview/social-icons-underline.png)
   
 - Active states → slight scale effect for click feedback
   
