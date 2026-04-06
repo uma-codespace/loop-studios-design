@@ -4,8 +4,8 @@ A responsive landing page built using HTML and CSS, inspired by the Loopstudios 
 
 ## Links
 
-Live Site: https://loop-studios-design.vercel.app
-Repository: https://github.com/uma-codespace/loop-studios-design
+- Live Site: https://loop-studios-design.vercel.app
+- Repository: https://github.com/uma-codespace/loop-studios-design
 
 ## 🚀 Features
 
