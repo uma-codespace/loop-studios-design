@@ -63,6 +63,32 @@ A responsive landing page built using HTML and CSS, inspired by the Loopstudios 
 - Social media icons with hover underline
 - Responsive stacking layout
 
+## 🎯 Interactive States
+
+The UI includes subtle interactions to improve user experience:
+
+- Image hover effects → brightness increase + overlay + caption color change
+- ![Preview](./preview/img-hover-effects.png)
+
+- Navbar links → animated underline on hover
+- ![Preview](./preview/navbar-underline.png)
+  
+- Buttons → color inversion on hover
+- Social icons → underline effect on hover
+- ![Preview](./preview/social-icons-underline.png)
+  
+- Active states → slight scale effect for click feedback
+  
+## ♿ Accessibility (a11y)
+
+Basic accessibility improvements have been considered:
+
+- Keyboard navigation supported (Tab, Enter)
+- Visible focus states for interactive elements
+- Semantic HTML structure (header, nav, section, footer)
+- Images include descriptive alt attributes
+- Reduced motion support (for users sensitive to animations)
+
 ## ✨ Notable CSS Techniques
 
 - background-blend-mode for dark overlay
