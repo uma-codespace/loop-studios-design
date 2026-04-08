@@ -1,6 +1,6 @@
 ## Loopstudios Landing Page
 
-A responsive landing page built using HTML and CSS, inspired by the Loopstudios design challenge from Frontend Mentor.
+A responsive landing page built using HTML and CSS, inspired by the Loopstudios design challenge from Frontend Mentor. It focuses on creating a clean, visually appealing UI with a strong emphasis on responsive layouts, typography, and imagery, ensuring a seamless experience across mobile, tablet, and desktop devices.
 
 ## Links
 
