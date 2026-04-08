@@ -1,4 +1,4 @@
-## 📌 Loopstudios Landing Page
+## Loopstudios Landing Page
 
 A responsive landing page built using HTML and CSS, inspired by the Loopstudios design challenge from Frontend Mentor.
 
@@ -7,7 +7,7 @@ A responsive landing page built using HTML and CSS, inspired by the Loopstudios 
 - Live Site: https://loop-studios-design.vercel.app
 - Repository: https://github.com/uma-codespace/loop-studios-design
 
-## 🚀 Features
+## Features
 
 - Fully responsive design (desktop → tablet → mobile)
 - Flexbox and CSS Grid layout
@@ -16,7 +16,7 @@ A responsive landing page built using HTML and CSS, inspired by the Loopstudios 
 - Mobile-friendly navigation (hamburger menu support)
 - Image overlay and caption effects
 
-## 🛠️ Built With
+## Built With
 
 - HTML5
 - CSS3
@@ -24,21 +24,21 @@ A responsive landing page built using HTML and CSS, inspired by the Loopstudios 
 - CSS Grid
 - Media Queries
 
-## 📂 Project Structure
+## Project Structure
 
 - /images → All image assets
 - index.html → Main HTML file
 - style.css → Stylesheet
 - README.md → Project documentation
 
-## 📱 Responsive Breakpoints
+## Responsive Breakpoints
 
 - 1200px (75rem) → Large screens
 - 992px (62rem) → Tablets
 - 756px (47.25rem) → Small tablets
 - 480px (30rem) → Mobile
 
-## 🎨 Key UI Sections
+## Key UI Sections
 
 1. Hero Section
 
@@ -63,7 +63,7 @@ A responsive landing page built using HTML and CSS, inspired by the Loopstudios 
 - Social media icons with hover underline
 - Responsive stacking layout
 
-## 🎯 Interactive States
+## Interactive States
 
 The UI includes subtle interactions to improve user experience:
 
@@ -79,7 +79,7 @@ The UI includes subtle interactions to improve user experience:
   
 - Active states → slight scale effect for click feedback
   
-## ♿ Accessibility (a11y)
+## Accessibility (a11y)
 
 Basic accessibility improvements have been considered:
 
@@ -89,7 +89,7 @@ Basic accessibility improvements have been considered:
 - Images include descriptive alt attributes
 - Reduced motion support (for users sensitive to animations)
 
-## ✨ Notable CSS Techniques
+## Notable CSS Techniques
 
 - background-blend-mode for dark overlay
 - ::after pseudo-element for hover underline
@@ -97,7 +97,7 @@ Basic accessibility improvements have been considered:
 - Negative margins for overlapping layout
 - Mobile-first responsive adjustments
 
-## 📸 Preview
+## Preview
 
 ![Large screen Preview](./preview/large-desktop-xxl.png)
 ![Large screen Preview](./preview/large-desktop-xxl-2.png)
@@ -110,19 +110,19 @@ Basic accessibility improvements have been considered:
 ![Mobile Preview](./preview/mobile-phone-sm-2.png)
 ![Mobile Preview](./preview/mobile-phone-sm-3.png)
 
-## 📚 Learnings
+## Learnings
 
 - Improved understanding of CSS Grid and Flexbox
 - Handling responsive layouts using media queries
 - Creating interactive hover effects without JavaScript
 - Structuring reusable utility classes
 
-## 🔗 Challenge Source
+## Challenge Source
 
 This project is based on the Frontend Mentor challenge:
-👉 https://www.frontendmentor.io/challenges/loopstudios-landing-page-N88J5Onjw
+https://www.frontendmentor.io/challenges/loopstudios-landing-page-N88J5Onjw
 
-## 🙌 Acknowledgements
+## Acknowledgements
 
 - Frontend Mentor for the design challenge
 - Google Fonts for typography
